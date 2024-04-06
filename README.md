@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jokonotobot0
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning
+- 🌱 I don't know why I did this
 
 t.me/jokonotoboto
 <!---
